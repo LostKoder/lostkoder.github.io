@@ -1,0 +1,32 @@
+@font-face {
+	font-family:'iransans';
+	font-style:normal;
+	font-weight:300;
+	src:url(../fonts/iransans-light.eot);
+	src:url(../fonts/iransans-light.eot?#iefix) format('embedded-opentype'),url(../fonts/iransans-light.woff2) format('woff2'),url(../fonts/iransans-light.woff) format('woff'),url(../fonts/iransans-light.ttf) format('truetype')
+}
+@font-face {
+	font-family:'iransans';
+	font-style:normal;
+	font-weight:bold;
+	src:url(../fonts/iransans-bold.eot);
+	src:url(../fonts/iransans-bold.eot?#iefix) format('embedded-opentype'),url(../fonts/iransans-bold.woff2) format('woff2'),url(../fonts/iransans-bold.woff) format('woff'),url(../fonts/iransans-bold.ttf) format('truetype')
+}
+@font-face {
+	font-family:'aicons';
+	src:url(../fonts/aicons.eot?v1.4);
+	src:url(../fonts/aicons.eot#iefix) format('embedded-opentype'),url(../fonts/aicons.woff?v1.4) format('woff'),url(../fonts/aicons.ttf?v1.4) format('truetype'),url(../fonts/aicons.svg?v1.4) format('svg');
+	font-weight:normal;
+	font-style:normal
+}
+
+body,button,input,select,textarea,p,h1,h2,h3,h4,h5,h6 {
+	font:16px;
+	font-family: 'iransans','MyriadPro-Regular','Myriad Pro Regular','MyriadPro','Myriad Pro','open-sans',tahoma,sans-serif;
+	font-weight:300
+}
+
+.en {
+	font:14px 'MyriadPro-Regular','Myriad Pro Regular','MyriadPro','Myriad Pro','open-sans',tahoma,sans-serif;
+	font-weight:100
+}
