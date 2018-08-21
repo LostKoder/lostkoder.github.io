@@ -1233,4 +1233,13 @@ footer {
 }
 
 }
-
+img.amin-alizadeh {
+	width:100%;
+	margin: 0 auto;
+}
+h2.description{
+	margin-top: 12px;
+}
+.pic-bg {
+	padding: 0;
+}
