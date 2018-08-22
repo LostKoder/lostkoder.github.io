@@ -1243,3 +1243,14 @@ h2.description{
 .pic-bg {
 	padding: 0;
 }
+li.phone{
+    direction: ltr;
+}
+body{
+    direction: rtl;
+}
+
+.contact-link a{
+    text-decoration: none;
+    color: #828282;
+}
