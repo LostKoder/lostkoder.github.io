@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5110789a-e55e-4540-8784-9784c33d5844" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -27,10 +26,15 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="87" column="79" selection-start-line="87" selection-start-column="79" selection-end-line="87" selection-end-column="79" />
+            <state relative-caret-position="314">
+              <caret line="304" column="41" selection-start-line="304" selection-start-column="41" selection-end-line="304" selection-end-column="41" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favicon.ico">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
@@ -46,27 +50,22 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>all</find>
-      <find>motammem</find>
-      <find>.com/motammem</find>
-      <find>95</find>
-      <find>سرای</find>
       <find>فردی</find>
-      <find />
-      <find />
+      <find>مهارت ها</find>
+      <find>- 95</find>
       <find>1395</find>
       <find>96</find>
       <find>انبوه</find>
-      <find />
+      <find>در شر</find>
       <find>همه</find>
       <find>همکاری</find>
-      <find />
+      <find>تحت php</find>
       <find>کلوب</find>
       <find>drupaly.com</find>
-      <find />
-      <find />
+      <find>و کارتان قرار</find>
+      <find>تکنولوژی ها و مهارت های فنی</find>
       <find>profile-avata</find>
-      <find />
+      <find>امین علیزاه هستم</find>
       <find>خود</find>
       <find>تحص</find>
       <find>profile-avatar</find>
@@ -76,6 +75,11 @@
       <find>.css</find>
       <find>family</find>
       <find>drupal</find>
+      <find>بشره</find>
+      <find>favi</find>
+      <find>for drupal</find>
+      <find>لیست پروژه های انجام شده</find>
+      <find>پروژه ها</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,6 +160,9 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="C:\Users\Amin\Desktop\vcard" />
@@ -213,7 +220,7 @@
       <workItem from="1534858013401" duration="5418000" />
       <workItem from="1534864593407" duration="911000" />
       <workItem from="1534866205444" duration="1980000" />
-      <workItem from="1534951617184" duration="292000" />
+      <workItem from="1534951617184" duration="1665000" />
     </task>
     <task id="LOCAL-00001" summary="improvement">
       <created>1534867443903</created>
@@ -229,26 +236,33 @@
       <option name="project" value="LOCAL" />
       <updated>1534868111415</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="improvement">
+      <created>1534952135415</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534952135415</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22501000" />
+    <option name="totallyTimeSpent" value="23874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26784727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26784727" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286334" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -472,10 +486,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="87" column="79" selection-start-line="87" selection-start-column="79" selection-end-line="87" selection-end-column="79" />
+        <state relative-caret-position="314">
+          <caret line="304" column="41" selection-start-line="304" selection-start-column="41" selection-end-line="304" selection-end-column="41" />
         </state>
       </provider>
     </entry>
